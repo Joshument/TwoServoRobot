@@ -1,5 +1,5 @@
 /*
-Joshua Harris
+Joshua
 Dual-Servo Robot w/ OLED Command Display
 Current Revision: December 3nd, 2021:
   - Moved wheels to a class (it looks nicer)

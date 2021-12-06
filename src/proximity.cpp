@@ -1,7 +1,5 @@
 #include <Arduino.h>
-
-constexpr int trigPin{11};
-constexpr int echoPin{12};
+#include "proximity.hpp"
 
 int calculateDistance() {
   // Clear the condition of trigPin

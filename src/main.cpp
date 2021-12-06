@@ -12,9 +12,9 @@ Current Revision: December 3nd, 2021:
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-#include "wheels.h"
-#include "oled.h"
-#include "proximity.h"
+#include "wheels.hpp"
+#include "oled.hpp"
+#include "proximity.hpp"
 
 void setup() {
     Serial.begin(9600);

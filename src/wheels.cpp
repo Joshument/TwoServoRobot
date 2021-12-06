@@ -1,5 +1,5 @@
-#include "wheels.h"
-#include "oled.h"
+#include "wheels.hpp"
+#include "oled.hpp"
 #include <Arduino.h>
 
 // Constructor, runs when the class is initialized.

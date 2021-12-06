@@ -18,7 +18,6 @@ Current Revision: December 3nd, 2021:
 
 void setup() {
     Serial.begin(9600);
-    Serial.println("This should work properly (I hope)");
     pinMode(trigPin, OUTPUT);
     pinMode(echoPin, INPUT);
 
